@@ -13,6 +13,22 @@
    <httpBody></httpBody>
    <httpBodyContent></httpBodyContent>
    <httpBodyType></httpBodyType>
+   <httpHeaderProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>x-api-key</name>
+      <type>Main</type>
+      <value>reqres-free-v1</value>
+      <webElementGuid>35c7ae13-57ad-445e-b2d0-b4c292905e4b</webElementGuid>
+   </httpHeaderProperties>
+   <httpHeaderProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>Content-Type</name>
+      <type>Main</type>
+      <value>application/json</value>
+      <webElementGuid>b3075829-41b5-40b2-be8e-c33b96701f2b</webElementGuid>
+   </httpHeaderProperties>
    <katalonVersion>10.3.1</katalonVersion>
    <maxResponseSize>-1</maxResponseSize>
    <migratedVersion>5.4.1</migratedVersion>
